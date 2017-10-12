@@ -1,0 +1,14 @@
+.metadata/**
+.recommenders/**
+.settings/**
+bin/**
+*.class
+*.dtd
+*.sh
+*.bat
+*.jar
+*.zip
+.classpath
+.project
+**/meme/**
+mappings.txt
